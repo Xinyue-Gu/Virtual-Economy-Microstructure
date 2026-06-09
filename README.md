@@ -2,7 +2,7 @@
 # Speculative Bubbles and Liquidity Crises in Unregulated Virtual Economies 
 **An Empirical Analysis of Market Microstructure Under Exogenous Shocks**
 
-[![SSRN Working Paper]((https://ssrn.com/abstract=6482540)
+[![SSRN Working Paper](https://ssrn.com/abstract=6482540)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
