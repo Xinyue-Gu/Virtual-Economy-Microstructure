@@ -35,9 +35,9 @@ We constructed the **Amihud (2002) Illiquidity Measure** to quantify the price i
 The analysis relies on robust data preprocessing and feature engineering to interpret high-frequency trading data.
 
 * **`data/`**: Contains sample time-series data for the proxy assets and the S&P 500 macroeconomic benchmark. *(Note: Full high-frequency dataset is hosted on Kaggle due to GitHub storage limits).*
-* **`notebooks/`**: 
-  * `01_Microstructure_and_Liquidity_Analysis.ipynb`: Feature engineering (calculating the Amihud measure, rolling MAs) and generating institutional-grade data visualizations.
 * **`requirements.txt`**: Python dependencies for reproducibility (pandas, numpy, matplotlib, etc.).
+* `01_Microstructure_and_Liquidity_Analysis.ipynb`: Feature engineering (calculating the Amihud measure, rolling MAs) and generating institutional-grade data visualizations.
+
 
 ## 🚀 Future Research Directions
 This repository establishes the microstructural foundation of the virtual asset crash. Building upon this empirical evidence, my ongoing research at the **UIUC Econ Data Lab** will focus on:
